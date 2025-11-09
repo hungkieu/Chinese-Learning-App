@@ -1,0 +1,747 @@
+[
+  {
+    "chinese": "爱",
+    "pinyin": "ài",
+    "vietnamese": "yêu"
+  },
+  {
+    "chinese": "八",
+    "pinyin": "bā",
+    "vietnamese": "tám"
+  },
+  {
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "vietnamese": "bố"
+  },
+  {
+    "chinese": "（杯）子",
+    "pinyin": "bēizi",
+    "vietnamese": "cốc"
+  },
+  {
+    "chinese": "北京",
+    "pinyin": "Běijīng",
+    "vietnamese": "Bắc Kinh"
+  },
+  {
+    "chinese": "本",
+    "pinyin": "běn",
+    "vietnamese": "cuốn (dùng cho sách)"
+  },
+  {
+    "chinese": "不客气",
+    "pinyin": "bú kèqì",
+    "vietnamese": "không có gì (đáp lại lời cảm ơn)"
+  },
+  {
+    "chinese": "不",
+    "pinyin": "bù",
+    "vietnamese": "không"
+  },
+  {
+    "chinese": "菜",
+    "pinyin": "cài",
+    "vietnamese": "món ăn, rau củ"
+  },
+  {
+    "chinese": "茶",
+    "pinyin": "chá",
+    "vietnamese": "trà"
+  },
+  {
+    "chinese": "吃",
+    "pinyin": "chī",
+    "vietnamese": "ăn"
+  },
+  {
+    "chinese": "出租车",
+    "pinyin": "chūzūchē",
+    "vietnamese": "taxi"
+  },
+  {
+    "chinese": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "vietnamese": "gọi điện thoại"
+  },
+  {
+    "chinese": "大",
+    "pinyin": "dà",
+    "vietnamese": "lớn, to"
+  },
+  {
+    "chinese": "的",
+    "pinyin": "de",
+    "vietnamese": "của (thuộc tính)"
+  },
+  {
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "vietnamese": "giờ (trong thời gian)"
+  },
+  {
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "vietnamese": "máy tính"
+  },
+  {
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "vietnamese": "ti vi"
+  },
+  {
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "vietnamese": "phim"
+  },
+  {
+    "chinese": "东西",
+    "pinyin": "dōngxī",
+    "vietnamese": "đồ vật, thứ"
+  },
+  {
+    "chinese": "都",
+    "pinyin": "dōu",
+    "vietnamese": "đều"
+  },
+  {
+    "chinese": "读",
+    "pinyin": "dú",
+    "vietnamese": "đọc"
+  },
+  {
+    "chinese": "对不起",
+    "pinyin": "duìbùqǐ",
+    "vietnamese": "xin lỗi"
+  },
+  {
+    "chinese": "多",
+    "pinyin": "duō",
+    "vietnamese": "nhiều"
+  },
+  {
+    "chinese": "多少",
+    "pinyin": "duōshǎo",
+    "vietnamese": "bao nhiêu"
+  },
+  {
+    "chinese": "儿子/ 女儿",
+    "pinyin": "érzi",
+    "vietnamese": "con trai"
+  },
+  {
+    "chinese": "二",
+    "pinyin": "èr",
+    "vietnamese": "hai"
+  },
+  {
+    "chinese": "饭馆",
+    "pinyin": "fànguǎn",
+    "vietnamese": "nhà hàng"
+  },
+  {
+    "chinese": "飞机",
+    "pinyin": "fēijī",
+    "vietnamese": "máy bay"
+  },
+  {
+    "chinese": "分钟",
+    "pinyin": "fēnzhōng",
+    "vietnamese": "phút"
+  },
+  {
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "vietnamese": "vui"
+  },
+  {
+    "chinese": "个",
+    "pinyin": "gè",
+    "vietnamese": "cái (đơn vị lượng từ)"
+  },
+  {
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "vietnamese": "công việc"
+  },
+  {
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "vietnamese": "chó"
+  },
+  {
+    "chinese": "汉语",
+    "pinyin": "Hànyǔ",
+    "vietnamese": "tiếng Hán"
+  },
+  {
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "vietnamese": "tốt, khỏe"
+  },
+  {
+    "chinese": "喝",
+    "pinyin": "hē",
+    "vietnamese": "uống"
+  },
+  {
+    "chinese": "和",
+    "pinyin": "hé",
+    "vietnamese": "và"
+  },
+  {
+    "chinese": "很",
+    "pinyin": "hěn",
+    "vietnamese": "rất"
+  },
+  {
+    "chinese": "后面",
+    "pinyin": "hòumiàn",
+    "vietnamese": "phía sau"
+  },
+  {
+    "chinese": "回",
+    "pinyin": "huí",
+    "vietnamese": "quay lại, về"
+  },
+  {
+    "chinese": "会",
+    "pinyin": "huì",
+    "vietnamese": "sẽ, biết (kỹ năng)"
+  },
+  {
+    "chinese": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "vietnamese": "ga tàu"
+  },
+  {
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "vietnamese": "mấy"
+  },
+  {
+    "chinese": "家",
+    "pinyin": "jiā",
+    "vietnamese": "gia đình, nhà"
+  },
+  {
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "vietnamese": "gọi, tên gọi"
+  },
+  {
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "vietnamese": "hôm nay"
+  },
+  {
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "vietnamese": "chín"
+  },
+  {
+    "chinese": "开",
+    "pinyin": "kāi",
+    "vietnamese": "mở, khởi động"
+  },
+  {
+    "chinese": "看",
+    "pinyin": "kàn",
+    "vietnamese": "xem"
+  },
+  {
+    "chinese": "看见",
+    "pinyin": "kànjiàn",
+    "vietnamese": "nhìn thấy"
+  },
+  {
+    "chinese": "块",
+    "pinyin": "kuài",
+    "vietnamese": "miếng, đồng (tiền)"
+  },
+  {
+    "chinese": "来",
+    "pinyin": "lái",
+    "vietnamese": "đến"
+  },
+  {
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "vietnamese": "giáo viên"
+  },
+  {
+    "chinese": "了",
+    "pinyin": "le",
+    "vietnamese": "đã (dùng để chỉ sự thay đổi)"
+  },
+  {
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "vietnamese": "lạnh"
+  },
+  {
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "vietnamese": "trong"
+  },
+  {
+    "chinese": "零",
+    "pinyin": "líng",
+    "vietnamese": "không (số 0)"
+  },
+  {
+    "chinese": "六",
+    "pinyin": "liù",
+    "vietnamese": "sáu"
+  },
+  {
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "vietnamese": "mẹ"
+  },
+  {
+    "chinese": "吗",
+    "pinyin": "ma",
+    "vietnamese": "không (dùng trong câu hỏi)"
+  },
+  {
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "vietnamese": "mua"
+  },
+  {
+    "chinese": "猫",
+    "pinyin": "māo",
+    "vietnamese": "mèo"
+  },
+  {
+    "chinese": "没",
+    "pinyin": "méi",
+    "vietnamese": "không có, chưa"
+  },
+  {
+    "chinese": "没关系",
+    "pinyin": "méi guānxi",
+    "vietnamese": "không sao, không có gì"
+  },
+  {
+    "chinese": "米饭",
+    "pinyin": "mǐfàn",
+    "vietnamese": "cơm"
+  },
+  {
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "vietnamese": "ngày mai"
+  },
+  {
+    "chinese": "名字",
+    "pinyin": "míngzi",
+    "vietnamese": "tên"
+  },
+  {
+    "chinese": "哪里 (哪儿)",
+    "pinyin": "nǎlǐ (nǎr)",
+    "vietnamese": "đâu, chỗ nào"
+  },
+  {
+    "chinese": "那",
+    "pinyin": "nà",
+    "vietnamese": "đó, kia"
+  },
+  {
+    "chinese": "呢",
+    "pinyin": "ne",
+    "vietnamese": "thì sao? (dùng để hỏi thêm)"
+  },
+  {
+    "chinese": "能",
+    "pinyin": "néng",
+    "vietnamese": "có thể"
+  },
+  {
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "vietnamese": "bạn"
+  },
+  {
+    "chinese": "年",
+    "pinyin": "nián",
+    "vietnamese": "năm"
+  },
+  {
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "vietnamese": "con gái"
+  },
+  {
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "vietnamese": "bạn"
+  },
+  {
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "vietnamese": "đẹp"
+  },
+  {
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "vietnamese": "táo"
+  },
+  {
+    "chinese": "七",
+    "pinyin": "qī",
+    "vietnamese": "bảy"
+  },
+  {
+    "chinese": "钱",
+    "pinyin": "qián",
+    "vietnamese": "tiền"
+  },
+  {
+    "chinese": "前面",
+    "pinyin": "qiánmiàn",
+    "vietnamese": "phía trước"
+  },
+  {
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "vietnamese": "xin vui lòng, mời"
+  },
+  {
+    "chinese": "去",
+    "pinyin": "qù",
+    "vietnamese": "đi"
+  },
+  {
+    "chinese": "热",
+    "pinyin": "rè",
+    "vietnamese": "nóng"
+  },
+  {
+    "chinese": "人",
+    "pinyin": "rén",
+    "vietnamese": "người"
+  },
+  {
+    "chinese": "认识",
+    "pinyin": "rènshi",
+    "vietnamese": "quen biết"
+  },
+  {
+    "chinese": "日",
+    "pinyin": "rì",
+    "vietnamese": "ngày"
+  },
+  {
+    "chinese": "三",
+    "pinyin": "sān",
+    "vietnamese": "ba"
+  },
+  {
+    "chinese": "商店",
+    "pinyin": "shāngdiàn",
+    "vietnamese": "cửa hàng"
+  },
+  {
+    "chinese": "上",
+    "pinyin": "shàng",
+    "vietnamese": "lên"
+  },
+  {
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "vietnamese": "buổi sáng"
+  },
+  {
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "vietnamese": "ít"
+  },
+  {
+    "chinese": "谁",
+    "pinyin": "shuí/ shéi",
+    "vietnamese": "ai"
+  },
+  {
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "vietnamese": "cái gì"
+  },
+  {
+    "chinese": "十",
+    "pinyin": "shí",
+    "vietnamese": "mười"
+  },
+  {
+    "chinese": "时候",
+    "pinyin": "shíhòu",
+    "vietnamese": "lúc, khi"
+  },
+  {
+    "chinese": "是",
+    "pinyin": "shì",
+    "vietnamese": "là, thì"
+  },
+  {
+    "chinese": "书",
+    "pinyin": "shū",
+    "vietnamese": "sách"
+  },
+  {
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "vietnamese": "nước"
+  },
+  {
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "vietnamese": "trái cây"
+  },
+  {
+    "chinese": "睡觉",
+    "pinyin": "shuìjiào",
+    "vietnamese": "ngủ"
+  },
+  {
+    "chinese": "说话",
+    "pinyin": "shuōhuà",
+    "vietnamese": "nói chuyện"
+  },
+  {
+    "chinese": "四",
+    "pinyin": "sì",
+    "vietnamese": "bốn"
+  },
+  {
+    "chinese": "岁",
+    "pinyin": "suì",
+    "vietnamese": "tuổi"
+  },
+  {
+    "chinese": "他",
+    "pinyin": "tā",
+    "vietnamese": "anh ấy, ông ấy"
+  },
+  {
+    "chinese": "她",
+    "pinyin": "tā",
+    "vietnamese": "cô ấy, bà ấy"
+  },
+  {
+    "chinese": "太",
+    "pinyin": "tài",
+    "vietnamese": "quá"
+  },
+  {
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "vietnamese": "thời tiết"
+  },
+  {
+    "chinese": "听",
+    "pinyin": "tīng",
+    "vietnamese": "nghe"
+  },
+  {
+    "chinese": "同学",
+    "pinyin": "tóngxué",
+    "vietnamese": "bạn học"
+  },
+  {
+    "chinese": "喂",
+    "pinyin": "wèi",
+    "vietnamese": "alo"
+  },
+  {
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "vietnamese": "tôi"
+  },
+  {
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "vietnamese": "chúng tôi"
+  },
+  {
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "vietnamese": "năm"
+  },
+  {
+    "chinese": "喜欢",
+    "pinyin": "xǐhuān",
+    "vietnamese": "thích"
+  },
+  {
+    "chinese": "下",
+    "pinyin": "xià",
+    "vietnamese": "xuống"
+  },
+  {
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "vietnamese": "buổi chiều"
+  },
+  {
+    "chinese": "下雨",
+    "pinyin": "xià yǔ",
+    "vietnamese": "mưa"
+  },
+  {
+    "chinese": "先生",
+    "pinyin": "xiānshēng",
+    "vietnamese": "ông, ngài"
+  },
+  {
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "vietnamese": "bây giờ"
+  },
+  {
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "vietnamese": "nghĩ, muốn"
+  },
+  {
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "vietnamese": "nhỏ"
+  },
+  {
+    "chinese": "小姐",
+    "pinyin": "xiǎojiě",
+    "vietnamese": "cô (trong cách gọi)"
+  },
+  {
+    "chinese": "些",
+    "pinyin": "xiē",
+    "vietnamese": "vài"
+  },
+  {
+    "chinese": "写",
+    "pinyin": "xiě",
+    "vietnamese": "viết"
+  },
+  {
+    "chinese": "谢谢",
+    "pinyin": "xièxiè",
+    "vietnamese": "cảm ơn"
+  },
+  {
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "vietnamese": "tuần"
+  },
+  {
+    "chinese": "学生",
+    "pinyin": "xuéshēng",
+    "vietnamese": "học sinh"
+  },
+  {
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "vietnamese": "học tập"
+  },
+  {
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "vietnamese": "trường học"
+  },
+  {
+    "chinese": "一",
+    "pinyin": "yī",
+    "vietnamese": "một"
+  },
+  {
+    "chinese": "衣服",
+    "pinyin": "yīfu",
+    "vietnamese": "quần áo"
+  },
+  {
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "vietnamese": "bác sĩ"
+  },
+  {
+    "chinese": "医院",
+    "pinyin": "yīyuàn",
+    "vietnamese": "bệnh viện"
+  },
+  {
+    "chinese": "椅子 （把）",
+    "pinyin": "yǐzi",
+    "vietnamese": "ghế"
+  },
+  {
+    "chinese": "月",
+    "pinyin": "yuè",
+    "vietnamese": "tháng, mặt trăng"
+  },
+  {
+    "chinese": "在",
+    "pinyin": "zài",
+    "vietnamese": "ở, tại"
+  },
+  {
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "vietnamese": "tạm biệt"
+  },
+  {
+    "chinese": "怎么",
+    "pinyin": "zěnme",
+    "vietnamese": "làm sao, thế nào"
+  },
+  {
+    "chinese": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "vietnamese": "như thế nào"
+  },
+  {
+    "chinese": "这",
+    "pinyin": "zhè",
+    "vietnamese": "Đây, này"
+  },
+  {
+    "chinese": "中国",
+    "pinyin": "Zhōngguó",
+    "vietnamese": "Trung Quốc"
+  },
+  {
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "vietnamese": "buổi trưa"
+  },
+  {
+    "chinese": "住",
+    "pinyin": "zhù",
+    "vietnamese": "sống, cư trú"
+  },
+  {
+    "chinese": "桌子",
+    "pinyin": "zhuōzi",
+    "vietnamese": "bàn 张"
+  },
+  {
+    "chinese": "字",
+    "pinyin": "zì",
+    "vietnamese": "chữ"
+  },
+  {
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "vietnamese": "hôm qua"
+  },
+  {
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "vietnamese": "ngồi"
+  },
+  {
+    "chinese": "做",
+    "pinyin": "zuò",
+    "vietnamese": "làm"
+  }
+]
