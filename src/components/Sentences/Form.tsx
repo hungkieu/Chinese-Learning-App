@@ -80,8 +80,7 @@ const Form = ({
         input: buildPrompt({ dailyWords, userInput, hskLevel }),
         temperature: 0.8,
       });
-      const text =
-        resp.output_text ?? resp.output?.[0]?.content?.[0]?.text ?? "";
+      const text = resp.choices?.[0]?.message?.content ?? "";
       const jsonData = JSON.parse(text);
       setResult(jsonData);
     } catch {

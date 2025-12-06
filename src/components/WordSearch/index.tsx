@@ -83,7 +83,7 @@ const WordSearch = () => {
       input: prompt,
       temperature: 0.2,
     });
-    const text = resp.output_text ?? resp.output?.[0]?.content?.[0]?.text ?? "";
+    const text = resp.choices?.[0]?.message?.content ?? "";
     try {
       const jsonData = JSON.parse(text);
       setResult(jsonData);
@@ -114,8 +114,7 @@ const WordSearch = () => {
             ],
             temperature: 0.2,
           });
-          const text =
-            resp.output_text ?? resp.output?.[0]?.content?.[0]?.text ?? "";
+          const text = resp.choices?.[0]?.message?.content ?? "";
           try {
             const jsonData = JSON.parse(text);
             setResult(Array.isArray(jsonData) ? jsonData : [jsonData]);

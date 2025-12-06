@@ -305,10 +305,7 @@ export default function ChineseSentence({ sentence }) {
                     input: prompt,
                     temperature: 0.2,
                   });
-                  const text =
-                    resp.output_text ??
-                    resp.output?.[0]?.content?.[0]?.text ??
-                    "";
+                  const text = resp.choices?.[0]?.message?.content ?? "";
                   const jsonData = JSON.parse(text);
                   setTempWord((prev) => ({
                     ...prev,
